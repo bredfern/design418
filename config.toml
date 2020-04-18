@@ -53,7 +53,7 @@ googleAnalytics = "UA-84715143-1"
     portfolio = "Portfolio"
     about = "About"
     team = "Team"
-    contact = "Contact"
+    contact = "Contact Us"
 
     # Add custom links. Those can be pre- and postpended to the default menu above.
     # Use the weight attribute to order your custom links. Uncomment the example
