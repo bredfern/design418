@@ -1,13 +1,10 @@
 ---
-title: "Engineering"
+title: "Development"
 imageLink: "https://d3lubguj0jcn6d.cloudfront.net/engineering_sm.png"
 ---
 
-- Robust, scalable, and self-healing
-- Python, Node.js, React.js, .Net, and more
-- Infrastructure as Code
+- Standards based html5 and css3
+- Best new practices with react, sass and graphql
 - Webrtc Video/Audio/Data Channels
 - Live Media/data broadcast/streaming
 - NoOps / DevOps
-- AWS "everything": from Lambda to Fargate, to DynamoDB and beyond
-- Agile, Waterfall, and "wet agile" (bit of both!)
