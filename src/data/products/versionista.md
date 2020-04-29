@@ -1,7 +1,7 @@
 ---
 title: "Psychic Shelley Hofberg"
 siteLink: "https://psychicshelleyhofberg.com"
-imageLink: "https://www.psychicshelleyhofberg.com/static/shelley-0224ea015d0c5696c439e0376673387e.jpg"
+imageLink: "https://www.psychicshelleyhofberg.com/static/tarot-56cd468386dbb6d3caf7bf37e1b9b7a7.jpg"
 customWidth: "65%"
 customHeight: "20%"
 customTopPadding: "52px"
