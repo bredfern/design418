@@ -1,14 +1,14 @@
 ---
-title: "Disney"
-siteLink: "https://disney.com"
-imageLink: "https://lumiere-a.akamaihd.net/v1/images/og_disney_4a3148aa.jpeg?region=0%2C0%2C1200%2C630"
+title: "Janus Gateway Docker Image"
+siteLink: "https://hub.docker.com/repository/docker/bredfern/docker-janus"
+imageLink: "https://webrtc.ventures/wp-content/uploads/2017/11/Janus-gateway-logo.png"
 customWidth: "70%"
 customHeight: "40%"
 customTopPadding: "50px"
 ---
 
-Developed the Disney Instant Visa Progam and their migration to a new analytics system for all their sites.
+I developed a docker image for the janus gateway webrtc media server.
 
-- Implemented new analytics system
-- angular js UI for Disney Instant Visa
-- Java services for Disney Instant Visa
+- Easy to build and install 
+- Supports Arm 
+- Requires your own stun/turn server to use over the web 

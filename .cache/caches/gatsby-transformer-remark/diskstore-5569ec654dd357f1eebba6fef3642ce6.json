@@ -1,0 +1,1 @@
+{"expireTime":9007200850616964000,"key":"transformer-remark-markdown-html-04a30e2a1311490fae2561f8501de2c1--","val":"<p>A webaudio/webmidi synth implemented with vue with support for hardware midi control.</p>\n<ul>\n<li>vue </li>\n<li>webaudio </li>\n<li>webmidi </li>\n<li>future plans for rust and possible migration from vue to typescript </li>\n</ul>"}
